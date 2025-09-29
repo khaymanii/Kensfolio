@@ -52,7 +52,7 @@ export const ProjectData = [
     demo: "https://buy-gun.vercel.app/",
     github: "https://github.com/khaymanii/BuyGun",
     image:
-      "https://private-user-images.githubusercontent.com/116851212/398888964-332bd943-e73d-498e-b674-48d97eb6b2e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5NDEwNzksIm5iZiI6MTc0OTk0MDc3OSwicGF0aCI6Ii8xMTY4NTEyMTIvMzk4ODg4OTY0LTMzMmJkOTQzLWU3M2QtNDk4ZS1iNjc0LTQ4ZDk3ZWI2YjJlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQyMjM5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYWFiNzc0OTVmNDIyOGVhOGQ5NTk0OTlmMzQ5ODUxNjljZGZhZGEzYjBhZjJiYjI5Mjc4OWZjMTc1Y2E2YTFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UbqKj0tGC9BWyud-OB6pIscbJ7naiWt639-7wdgU9Vg",
+      "https://github.com/user-attachments/assets/332bd943-e73d-498e-b674-48d97eb6b2e4",
   },
   {
     id: 6,
@@ -70,7 +70,7 @@ export const ProjectData = [
     demo: "https://www.webmobilefirst.com/en/screencasts/10m5eqjvp2bgw3/",
     github: "https://github.com/khaymanii/BuyGun-App",
     image:
-      "https://private-user-images.githubusercontent.com/116851212/398888964-332bd943-e73d-498e-b674-48d97eb6b2e4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5NDEwNzksIm5iZiI6MTc0OTk0MDc3OSwicGF0aCI6Ii8xMTY4NTEyMTIvMzk4ODg4OTY0LTMzMmJkOTQzLWU3M2QtNDk4ZS1iNjc0LTQ4ZDk3ZWI2YjJlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQyMjM5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYWFiNzc0OTVmNDIyOGVhOGQ5NTk0OTlmMzQ5ODUxNjljZGZhZGEzYjBhZjJiYjI5Mjc4OWZjMTc1Y2E2YTFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UbqKj0tGC9BWyud-OB6pIscbJ7naiWt639-7wdgU9Vg",
+      "https://github.com/user-attachments/assets/332bd943-e73d-498e-b674-48d97eb6b2e4",
   },
   {
     id: 7,
@@ -89,6 +89,6 @@ export const ProjectData = [
     demo: "https://js-fusion.vercel.app/",
     github: "https://github.com/khaymanii/JSFusion",
     image:
-      "https://private-user-images.githubusercontent.com/116851212/400573059-bd67852e-96b9-4754-86c2-723c7bb53d28.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk5NDE5NzMsIm5iZiI6MTc0OTk0MTY3MywicGF0aCI6Ii8xMTY4NTEyMTIvNDAwNTczMDU5LWJkNjc4NTJlLTk2YjktNDc1NC04NmMyLTcyM2M3YmI1M2QyOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNFQyMjU0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjJkNzcyYTM4YTYyOTUyYWI5NmQxY2UzNzc5YTA1ODE0YjI5ODBhYjQ4MThiOGYzMjllNjYwZDgyZDZkMzJmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._SpPrBlhskYa-zdTmOeFnvLg4jKWratWX50aW9vKbpc",
+      "https://github.com/user-attachments/assets/bd67852e-96b9-4754-86c2-723c7bb53d28",
   },
 ];
