@@ -8,8 +8,7 @@ function About() {
         <div className="about-info">
           Hello There ✋, <br />I am{" "}
           <span className="info-name">Kenneth Akpo</span>.
-          <br />A Frontend Web and App Engineer, proficient in React and React
-          native framework.
+          <br />A Frontend Engineer, proficient in React and React Native.
         </div>
         <div className="about-photo">
           <img

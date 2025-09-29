@@ -43,7 +43,6 @@ export const ProjectData = [
     image:
       "https://github.com/buywebteam/buyweb/blob/main/public/auiorg.png?raw=true",
   },
-
   {
     id: 5,
     title: "Buygun",
