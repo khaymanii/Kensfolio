@@ -1,7 +1,6 @@
-import React from "react";
 import "./work.css";
 import Separator from "../../common/separator";
-import {WorkData} from "../../data/work";
+import { WorkData } from "../../data/work";
 import WorkCard from "./work-card";
 function Work() {
   const data = WorkData;
@@ -15,7 +14,7 @@ function Work() {
         })}
       </div>
     </div>
-  );  
+  );
 }
 
 export default Work;

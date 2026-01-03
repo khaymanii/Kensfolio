@@ -1,12 +1,28 @@
+.blog {
+  width: 100%;
+}
+
+.blog-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 24px;
+  margin: 24px 0;
+}
+
+/* Existing card styles (mostly fine) */
 .blog-card {
   width: 100%;
   max-width: 340px;
+  margin: 0 auto;
   border-radius: 12px;
   overflow: hidden;
   background: #ffffff;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
   cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
 }
 
 .blog-card:hover {
@@ -25,13 +41,13 @@
 }
 
 .blog-title {
-  font-size: 1.1rem;
+  font-size: 0.9rem;
   font-weight: 600;
   margin-bottom: 8px;
 }
 
 .blog-description {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   color: #555;
   line-height: 1.5;
   margin-bottom: 12px;
@@ -40,10 +56,21 @@
 .blog-link {
   font-size: 0.9rem;
   font-weight: 500;
-  color: #311354; /* your customPurple */
+  color: #311354;
   text-decoration: none;
 }
 
 .blog-link:hover {
   text-decoration: underline;
+}
+
+/* Mobile tweaks */
+@media (max-width: 480px) {
+  .blog-image {
+    height: 160px;
+  }
+
+  .blog-title {
+    font-size: 1rem;
+  }
 }

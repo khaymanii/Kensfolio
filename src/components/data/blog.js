@@ -1,16 +1,30 @@
 export const blogs = [
   {
-    title: "Building CI/CD Pipelines with GitHub Actions",
+    title: "Building Yard, an AI_Powered Real Estate Assistant on Whatsapp",
     description:
-      "A practical guide to automating build, test, and deployment workflows for modern web applications.",
-    image: "/images/blog-ci-cd.jpg",
-    link: "/blog/cicd-github-actions",
+      "This article breaks down how Yard works, the infrastructure behind it, and why WhatsApp-first PropTech is a powerful alternative for housing startups.",
+    image: "/images/yardimage.webp",
+    link: "https://coderofph.hashnode.dev/building-yard-a-whatsapp-ai-real-estate-assistant-for-proptech",
   },
   {
-    title: "Scaling WhatsApp Bots with Cloud Infrastructure",
+    title: "Innovation Plan for Blinks AI",
     description:
-      "How we designed a scalable backend for a WhatsApp AI real estate agent using cloud-native tools.",
-    image: "/images/blog-whatsapp-ai.jpg",
-    link: "/blog/whatsapp-ai",
+      "This innovation plan outlines a set of strategic product initiatives designed to strengthen Blink AI’s value proposition, reduce onboarding friction, build user trust, and open new monetization paths.",
+    image: "/images/blinksai.png",
+    link: "https://coderofph.hashnode.dev/innovation-plan-for-blinks-ai",
+  },
+  {
+    title: "Innovation Plan for Tracker",
+    description:
+      "This innovation plan proposes a set of user-driven, data-informed features designed to elevate Tracker into the next generation of social analytics tools.",
+    image: "/images/tracker.webp",
+    link: "https://coderofph.hashnode.dev/innovation-plan-for-tracker",
+  },
+  {
+    title: "Eden Life Five-Year Innovation Plan",
+    description:
+      "This five-year innovation plan outlines strategic initiatives to enhance the food delivery experience that would set Eden Life apart in a competitive market.",
+    image: "/images/eden.webp",
+    link: "https://coderofph.hashnode.dev/eden-life-five-year-innovation-plan",
   },
 ];
