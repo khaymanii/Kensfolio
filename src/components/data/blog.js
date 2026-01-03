@@ -1,4 +1,4 @@
-const blogs = [
+export const blogs = [
   {
     title: "Building CI/CD Pipelines with GitHub Actions",
     description:
@@ -14,4 +14,3 @@ const blogs = [
     link: "/blog/whatsapp-ai",
   },
 ];
-export default blogs;

@@ -1,4 +1,3 @@
-import React from "react";
 import "./contact.css";
 import Separator from "../../common/separator";
 import SocialContact from "../../common/social-contact";
