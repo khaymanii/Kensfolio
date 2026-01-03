@@ -26,7 +26,7 @@ export const ProjectData = [
     title: "FounderIQ",
     about:
       "FounderIQ is your personal AI co-founder and tech startup consultant/companion that helps you build and scale your tech startup.",
-    tags: ["ReactJS", "Typescript", "PWA", "Web Development"],
+    tags: ["ReactJS", "Typescript", "Supabase","PWA", "Web Development"],
     demo: "https://www.fiq.vercel.app/",
     github: "https://github.com/khaymanii/FounderIQ",
     image:
@@ -59,7 +59,7 @@ export const ProjectData = [
     title: "Buygun",
     about:
       "A warfare ecommerce web store where first grade arms and ammunitions ranging from gun to grenade to bullet etc are sold.",
-    tags: ["HTML", "CSS", "JavaScript", "React", "Web Development"],
+    tags: ["HTML", "CSS", "JavaScript", "React", "Firebase", "Web Development"],
     demo: "https://buy-gun.vercel.app/",
     github: "https://github.com/khaymanii/BuyGun",
     image:
@@ -75,7 +75,8 @@ export const ProjectData = [
       "CSS",
       "JavaScript",
       "React Native",
-      "Web Development",
+      "Firebase",
+      "App Development",
       "Mobile App",
     ],
     demo: "https://www.webmobilefirst.com/en/screencasts/10m5eqjvp2bgw3/",
