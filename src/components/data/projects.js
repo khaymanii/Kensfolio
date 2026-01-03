@@ -1,6 +1,28 @@
 export const ProjectData = [
   {
     id: 1,
+    title: "Yard",
+    about:
+      "Yard is a WhatsApp-based AI real estate agent designed with a cloud-native, DevOps-driven architecture. It enables users to search for properties and schedule house inspections through a conversational WhatsApp interface, while leveraging automated CI/CD pipelines.",
+    tags: [
+      "DevOps",
+      "AWS CodePipeline",
+      "AWS CodeBuild",
+      "AWS CodeDeploy",
+      "AWS Lambda",
+      "AWS S3",
+      "AWS DynamoDB",
+      "AWS API Gateway",
+      "AWS Cloudwatch",
+      "AWS IAM",
+    ],
+    demo: "https://yard-six.vercel.app/",
+    github: "https://github.com/khaymanii/Yard-BE",
+    image:
+      "https://github.com/user-attachments/assets/b602499c-fe62-4cbc-8778-37836c98ff78",
+  },
+  {
+    id: 2,
     title: "FounderIQ",
     about:
       "FounderIQ is your personal AI co-founder and tech startup consultant/companion that helps you build and scale your tech startup.",
@@ -9,17 +31,6 @@ export const ProjectData = [
     github: "https://github.com/khaymanii/FounderIQ",
     image:
       "https://github.com/user-attachments/assets/3c243e82-711f-4fbd-8412-ba2716afb060",
-  },
-  {
-    id: 2,
-    title: "Buyweb",
-    about:
-      "A platform that sells beautiful ready-made website and website template on budget, at a cheaper and affordable rate to SME.",
-    tags: ["ReactJS", "Web Design", "javascript", "Web Development"],
-    demo: "https://www.buyweb.live/",
-    github: "https://www.buyweb.live/",
-    image:
-      "https://github.com/user-attachments/assets/460a9145-390e-4dcd-b13e-3583343ab1fb",
   },
   {
     id: 3,

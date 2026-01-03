@@ -1,4 +1,3 @@
-import React from "react";
 import Separator from "../../common/separator";
 import { ProjectData } from "../../data/projects";
 import ProjectCard from "./project-card";
