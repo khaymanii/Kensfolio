@@ -83,23 +83,4 @@ export const ProjectData = [
     image:
       "https://github.com/user-attachments/assets/332bd943-e73d-498e-b674-48d97eb6b2e4",
   },
-  {
-    id: 7,
-    title: "JS Fusion",
-    about:
-      "A vibrant Open-Source community hub for discovering, learning, and contributing to a diverse array of beginner to intermediate friendly JavaScript projects across various frameworks.",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "Nextjs",
-      "Vue",
-      "React Native",
-    ],
-    demo: "https://js-fusion.vercel.app/",
-    github: "https://github.com/khaymanii/JSFusion",
-    image:
-      "https://github.com/user-attachments/assets/bd67852e-96b9-4754-86c2-723c7bb53d28",
-  },
 ];

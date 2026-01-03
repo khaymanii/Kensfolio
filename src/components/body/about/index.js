@@ -5,7 +5,7 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          Hello There ✋, <br />I am <span className="info-name">Ken</span>.
+          Hello There ✋, <br />I am <span className="info-name">Ken</span>,
           <br />A Frontend & DevOps Engineer with experience building
           production-ready applications and automating deployment workflows.
         </div>

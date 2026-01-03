@@ -43,10 +43,6 @@ export const SkillsData = [
         ),
       },
       {
-        name: "Appwrite",
-        icon: <i class="devicon-appwrite-plain colored"></i>,
-      },
-      {
         name: "MongoDB",
         icon: <i class="devicon-mongodb-plain colored"></i>,
       },
@@ -66,6 +62,47 @@ export const SkillsData = [
       {
         name: "React Native",
         icon: <i class="devicon-react-original colored"></i>,
+      },
+    ],
+  },
+  {
+    type: "DevOps",
+    list: [
+      {
+        name: "Linux",
+        icon: <i class="devicon-linux-plain colored"></i>,
+      },
+      {
+        name: "AWS",
+        icon: <i className="devicon-amazonwebservices-original colored"></i>,
+      },
+      {
+        name: "Jenkins",
+        icon: <i class="devicon-jenkins-plain colored"></i>,
+      },
+      {
+        name: "Ansible",
+        icon: <i class="devicon-ansible-plain colored"></i>,
+      },
+      {
+        name: "Docker",
+        icon: <i class="devicon-docker-plain colored"></i>,
+      },
+      {
+        name: "Kubernetes",
+        icon: <i class="devicon-kubernetes-plain colored"></i>,
+      },
+      {
+        name: "Prometheus",
+        icon: <i className="devicon-prometheus-original colored"></i>,
+      },
+      {
+        name: "Grafana",
+        icon: <i class="devicon-grafana-plain colored"></i>,
+      },
+      {
+        name: "Terraform",
+        icon: <i class="devicon-terraform-plain colored"></i>,
       },
     ],
   },
