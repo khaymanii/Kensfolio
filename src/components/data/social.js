@@ -15,9 +15,4 @@ export const SocialData=[
         icon: require("../../assets/icons/twitter.png"),
         link: "https://twitter.com/kenneth_akpo",
     },
-    {
-        platform:"Hashnode",
-        icon: require("../../assets/icons/Hashnode.png"),
-        link: "https://hashnode.com/@CoderOfpH",
-    },
 ];
