@@ -15,14 +15,14 @@ export const blogs = [
     link: "https://coderofph.hashnode.dev/building-yard-a-whatsapp-ai-real-estate-assistant-for-proptech",
   },
   {
-    title: "Innovation Plan for Blinks AI",
+    title: "Innovation Plan for Blinks AI, a Tech Startup",
     description:
       "This innovation plan outlines a set of strategic product initiatives designed to strengthen Blink AI’s value proposition, reduce onboarding friction, build user trust, and open new monetization paths.",
     image: "/images/blinksai.png",
     link: "https://coderofph.hashnode.dev/innovation-plan-for-blinks-ai",
   },
   {
-    title: "Innovation Plan for Tracker",
+    title: "Innovation Plan for Tracker, a Tech Startup",
     description:
       "This innovation plan proposes a set of user-driven, data-informed features designed to elevate Tracker into the next generation of social analytics tools.",
     image: "/images/tracker.webp",
