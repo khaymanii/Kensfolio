@@ -1,5 +1,13 @@
 export const blogs = [
   {
+    title:
+      "Meet Motion: Your WhatsApp Assistant for Simplifying Everyday Services",
+    description:
+      "This article explains how Motion works, the serverless infrastructure behind it, and why WhatsApp-first conversational services are a smarter alternative for on-demand platforms.",
+    image: "/images/motion.webp",
+    link: "https://coderofph.hashnode.dev/why-motion-is-building-super-apps-on-whatsapp-not-mobile-apps",
+  },
+  {
     title: "Building Yard, an AI_Powered Real Estate Assistant on Whatsapp",
     description:
       "This article breaks down how Yard works, the infrastructure behind it, and why WhatsApp-first PropTech is a powerful alternative for housing startups.",
