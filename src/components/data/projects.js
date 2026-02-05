@@ -90,7 +90,17 @@ export const ProjectData = [
     title: "Buygun",
     about:
       "A warfare ecommerce web store where first grade arms and ammunitions ranging from gun to grenade to bullet etc are sold.",
-    tags: ["HTML", "CSS", "JavaScript", "React", "Firebase", "Web Development"],
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Firebase",
+      "Web Development",
+      "Jenkins",
+      "Docker",
+      "Docker Hub",
+    ],
     demo: "https://buy-gun.vercel.app/",
     github: "https://github.com/khaymanii/BuyGun",
     image:
@@ -109,6 +119,9 @@ export const ProjectData = [
       "Firebase",
       "App Development",
       "Mobile App",
+      "Jenkins",
+      "Docker",
+      "Docker Hub",
     ],
     demo: "https://www.webmobilefirst.com/en/screencasts/10m5eqjvp2bgw3/",
     github: "https://github.com/khaymanii/BuyGun-App",
