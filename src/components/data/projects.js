@@ -48,7 +48,16 @@ export const ProjectData = [
     title: "FounderIQ",
     about:
       "FounderIQ is your personal AI co-founder and tech startup consultant/companion that helps you build and scale your tech startup.",
-    tags: ["ReactJS", "Typescript", "Supabase","PWA", "Web Development"],
+    tags: [
+      "ReactJS",
+      "Typescript",
+      "Supabase",
+      "PWA",
+      "Web Development",
+      "Jenkins",
+      "Docker",
+      "Docker Hub",
+    ],
     demo: "https://www.fiq.vercel.app/",
     github: "https://github.com/khaymanii/FounderIQ",
     image:
@@ -59,7 +68,7 @@ export const ProjectData = [
     title: "AlienX",
     about:
       "A powerful VS Code snippet extension that generates UI Components of several UI libraries for web and mobile app  within seconds, right in your VS Code IDE. AlienX supports UI components of variuous notable UI libraries ranging from MaterialUI, GluestackUI and DaisyUI etc.",
-    tags: ["JavaScript", "TypeScript", "VS Code Extension"],
+    tags: ["JavaScript", "TypeScript", "VS Code Extension", "Github Actions"],
     demo: "https://marketplace.visualstudio.com/items?itemName=AlienUI.alienx",
     github: "https://github.com/khaymanii/AlienX/",
     image:
