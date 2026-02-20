@@ -6,6 +6,7 @@ export const ProjectData = [
       "Motion is a WhatsApp Assistant that lets users book rides, order food, send parcels, and buy groceries—all through one simple chat.",
     tags: [
       "DevOps",
+      "Linux",
       "AWS Lambda",
       "AWS S3",
       "AWS DynamoDB",
@@ -28,6 +29,7 @@ export const ProjectData = [
       "Yard is a WhatsApp-based AI real estate agent designed with a cloud-native, DevOps-driven architecture. It enables users to search for properties and schedule house inspections through a conversational WhatsApp interface, while leveraging automated CI/CD pipelines.",
     tags: [
       "DevOps",
+      "Linux",
       "AWS CodePipeline",
       "AWS CodeBuild",
       "AWS CodeDeploy",
@@ -54,9 +56,14 @@ export const ProjectData = [
       "Supabase",
       "PWA",
       "Web Development",
+      "DevOps",
+      "AWS",
+      "Linux",
       "Github Actions",
       "Docker",
       "Docker Hub",
+      "Ansible",
+      "Terraform",
     ],
     demo: "https://www.fiq.vercel.app/",
     github: "https://github.com/khaymanii/FounderIQ",
@@ -68,7 +75,7 @@ export const ProjectData = [
     title: "AlienX",
     about:
       "A powerful VS Code snippet extension that generates UI Components of several UI libraries for web and mobile app  within seconds, right in your VS Code IDE. AlienX supports UI components of variuous notable UI libraries ranging from MaterialUI, GluestackUI and DaisyUI etc.",
-    tags: ["JavaScript", "TypeScript", "VS Code Extension", "Github Actions"],
+    tags: ["JavaScript", "TypeScript", "VS Code Extension", "DevOps", "Linux", "Github Actions"],
     demo: "https://marketplace.visualstudio.com/items?itemName=AlienUI.alienx",
     github: "https://github.com/khaymanii/AlienX/",
     image:
@@ -79,7 +86,7 @@ export const ProjectData = [
     title: "AlienUI Organization",
     about:
       "An open source Organization where next-gen developer tools and UI ibraries are built. AlienUI Org has four products; AlienUI, AlienUi React, AlienX and Alienicons.",
-    tags: ["Html", "Css", "Javascript", "React", "Web Development"],
+    tags: ["Tailwind Css", "Javascript", "React", "Web Development"],
     demo: "https://auiorg.vercel.app/",
     github: "https://github.com/AlienUI-Org/",
     image:
@@ -91,15 +98,19 @@ export const ProjectData = [
     about:
       "A warfare ecommerce web store where first grade arms and ammunitions ranging from gun to grenade to bullet etc are sold.",
     tags: [
-      "HTML",
-      "CSS",
+      "Tailwind CSS",
       "JavaScript",
       "React",
       "Firebase",
       "Web Development",
+      "DevOps",
+      "AWS",
+      "Linux",
       "Github Actions",
       "Docker",
       "Docker Hub",
+      "Ansible",
+      "Terraform",
     ],
     demo: "https://buy-gun.vercel.app/",
     github: "https://github.com/khaymanii/BuyGun",
@@ -112,8 +123,7 @@ export const ProjectData = [
     about:
       "A warfare ecommerce mobile app store where first grade arms and ammunitions ranging from gun to grenade to bullet etc are sold.",
     tags: [
-      "HTML",
-      "CSS",
+      "Nativewind CSS",
       "JavaScript",
       "React Native",
       "Firebase",
