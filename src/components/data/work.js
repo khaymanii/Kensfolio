@@ -1,11 +1,19 @@
 export const WorkData = [
   {
+    company: "HNG Tech",
+    designation: "DevOps Engineer",
+    dateJoining: "Nov 2025",
+    dateEnd: "Present",
+    companyLogo: "",
+    work: "Worked on CI/CD pipelines, deployment automation, and cloud infrastructure that improves release efficiency, scalability, and system reliability. Assisted in infrastructure optimization, environment configuration, and deployment processes that supports faster and more stable software delivery. Collaborated with engineering teams to streamline build systems, reduce deployment friction, and improve overall operational performance.",
+  },
+  {
     company: "AlienUI Org.",
     designation: "Creator",
     dateJoining: "Feb 2025",
     dateEnd: "Nov 2025",
     companyLogo: "",
-    work: "• Created and shipped AlienUI and AlienUI React, a lightweight UI component library for react native and react developers. • Launched AlienUI on product hunt for more visibility. • Featured AlienUI on a global open-source company called Tublian, where it got 100+ stars on github and also garnered 5+ open-source contributors ranging from developers to designers within 1 week of launch. • Launched a Flagship product under AlienUI Org, called AlienX which is a Powerful VScode extension for both web and app developers used by engineering teams of small and medium size enterprises (SME) and businesses. • Released Alienicons , a free customizable svg icon built on Heroicons.",
+    work: "Designed and shipped AlienUI-React/AlienUI (React/React Native UI library), gaining early global traction via Github Projects and Tublian with 100+ GitHub stars and 6+ open-source contributors in the first week. Built AlienX, a VSCode extension used by SME engineering teams, which garnered 100+ installations in one week, and released AlienIcons, a customizable SVG icon set based on Heroicons for production use.",
   },
   {
     company: "Artizansquare",
@@ -14,20 +22,7 @@ export const WorkData = [
     dateEnd: "Dec 2024",
     companyLogo: "",
     work: [
-      "•  Led a team of software engineers to build Artizansquare MVP resulting in a 10% improvement in user satisfaction.",
-      "• Worked with the CEO and CTO of Artizansquare to review and edit pitch deck for potential Angel Investors/Venture Capitalist.",
-      "• Proposed innovative ideas and strategy on how to enhance user and customer experience.",
-      "• Conducted market research and competitor analysis to identify product gaps and opportunities.",
-      "• Played a key role in onboarding early artisan users and collecting product feedback for iterative development.",
-      "• Oversaw API integration with third-party tools for location, payment, and user authentication.",
+      "Led a team of engineers to build the Artizansquare MVP, improving user satisfaction by 10%. Collaborated with the CEO and CTO on investor pitch deck refinement for angel and VC fundraising. Conducted market research and competitor analysis to identify product opportunities, onboarded early artisan users for feedback-driven iteration, and oversaw API integrations for location, payments, and authentication.",
     ],
-  },
-  {
-    company: "Tublian",
-    designation: "Frontend Engineer",
-    dateJoining: "Jan 2023",
-    dateEnd: "Mar 2023",
-    companyLogo: "",
-    work: "•  Collaborated with multidisciplinary teams to design and implement 5 new technology features resulting in a 10% improvement in user satisfaction. • Actively participated in the development of open-source software by submitting over 10 – 20 code contribution, including bug fixes and new features to Next UI, Biodrop, Microsoft LightGBM codebase. • Engaged with 40 developers, maintaining open lines of communication, and collaborated with contributors to enhance project codebase which led to 20% increase in code quality and reduced bug by 30%. • Built and maintained a personal open-source project called JSFusion attracting few collaborators and receiving few github stars.",
   },
 ];
