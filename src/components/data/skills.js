@@ -42,14 +42,6 @@ export const SkillsData = [
           <SupabaseOriginal className="devicon-supabase-original colored" />
         ),
       },
-      {
-        name: "MongoDB",
-        icon: <i class="devicon-mongodb-plain colored"></i>,
-      },
-      {
-        name: "PostgreSQL",
-        icon: <i class="devicon-postgresql-plain colored"></i>,
-      },
     ],
   },
   {
