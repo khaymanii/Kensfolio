@@ -5,6 +5,9 @@ export const ProjectData = [
     about:
       "SAINT sportx store is an ecommerce retail store that sells quality and affordable sportwears and gears for the relentless athletes, fans and sports enthusiast.",
     tags: [
+      "Typescript",
+      "NextJS",
+      "Tailwind CSS",
       "DevOps",
       "Linux",
       "Github Actions",
